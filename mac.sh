@@ -21,7 +21,7 @@ casks=(
   spotify
   notion
   docker
-  gcloud
+  signal
   # google-chrome
   # zoom
 )
